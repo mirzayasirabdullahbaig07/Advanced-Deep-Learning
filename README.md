@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Advanced-Deep-Learning
-=======
+
 # 📘 Advanced Deep Learning  
 
 This repository documents my **100 Days of Deep Learning Journey**, inspired by the Mirza Yasir Abdullah Baig.  
