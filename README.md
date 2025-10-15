@@ -11,7 +11,6 @@ The repo contains **notes, code implementations, and projects** covering **ANNs,
 ### **01: Introduction & Perceptron**
 - What is Deep Learning?  
 - Neural Networks vs Machine Learning  
-- History & Applications of Deep Learning  
 - Perceptron: Intuition & Training  
 - Loss Functions: Hinge Loss, Binary Cross-Entropy, Sigmoid  
 - Multi-Layer Perceptrons (MLPs)  
@@ -66,4 +65,3 @@ The repo contains **notes, code implementations, and projects** covering **ANNs,
 - Final Project: End-to-End Deep Learning Project  
 
 ---
->>>>>>> 4be6207ff93dd497fad3514a8dffa02fc64b6792
