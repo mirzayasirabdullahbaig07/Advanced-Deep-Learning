@@ -13,10 +13,12 @@ The repo contains **notes, code implementations, and projects** covering **ANNs,
 - Neural Networks vs Machine Learning  
 - Perceptron: Intuition & Training  
 - Loss Functions: Hinge Loss, Binary Cross-Entropy, Sigmoid  
-- Multi-Layer Perceptrons (MLPs)  
+- Multi-Layer Perceptrons (MLPs) - Notation
+- Multi-Layer Perceptrons (MLPs) - Intitution
 
 ### **02: Forward & Backpropagation**
-- Forward Propagation in Neural Networks  
+- Forward Propagation in Neural Networks
+- Loss Functions
 - Backpropagation (The What, The How, The Why)  
 - Gradient Descent (Batch, Stochastic, Mini-batch)  
 - Vanishing & Exploding Gradients  
